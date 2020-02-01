@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jna-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-core-1.8.2.jar" sourcepath="C:/Users/AS/AppData/Local/Temp/.org.sf.feeling.decompiler1580567965169/source/pcap4j-core-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-distribution-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-packetfactory-propertiesbased-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-packetfactory-static-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-packettest-1.8.2-tests.jar"/>
+	<classpathentry kind="lib" path="lib/pcap4j-sample-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
